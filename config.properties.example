@@ -1,0 +1,4 @@
+sleep_time_seconds = 0
+root_guid=your_root_folder_guid_here
+local_root=./downloads
+cookie=your_cookie_value_here
